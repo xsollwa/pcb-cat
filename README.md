@@ -27,9 +27,17 @@ Designed using **KiCad**
 
 ## Screenshots
 
-- **Schematic** (`schematic.png`)
-- **PCB** (`pcb_layout.png`)
-- **3D** (`3d_view.png`)
+- Schematic
+  
+![Schematic](images/schematic.png)
+
+- PCB Layout
+  
+![PCB Layout](images/pcb_layout.png)
+
+- 3D View
+  
+![3D View](images/3d_view.png)
 
 ## Slack Username
 
