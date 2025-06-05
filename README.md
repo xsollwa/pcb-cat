@@ -32,11 +32,12 @@ Designed using **KiCad**
 
 - PCB Layout
   
-![PCB Layout](images/pcb_layout.png)
+![PCB Layout](images/pcb.png)
 
 - 3D View
   
-![3D View](images/3d_view.png)
+![3D Front](images/3dFront.png)
+![3D Front](images/3dBack.png)
 
 ## Slack Username
 
